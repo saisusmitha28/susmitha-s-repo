@@ -1,0 +1,12 @@
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\bin\Debug\net5.0\HRMSproject1.Communication.deps.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\bin\Debug\net5.0\HRMSproject1.Communication.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\bin\Debug\net5.0\HRMSproject1.Communication.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.csproj.AssemblyReference.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.AssemblyInfoInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.AssemblyInfo.cs
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.csproj.CoreCompileInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\refint\HRMSproject1.Communication.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\HRMSproject1.Communication.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Communication\obj\Debug\net5.0\ref\HRMSproject1.Communication.dll

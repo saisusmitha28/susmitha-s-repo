@@ -1,0 +1,15 @@
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\bin\Debug\net5.0\HRMSproject1.Repository.deps.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\bin\Debug\net5.0\HRMSproject1.Repository.runtimeconfig.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\bin\Debug\net5.0\HRMSproject1.Repository.runtimeconfig.dev.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\bin\Debug\net5.0\HRMSproject1.Repository.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\bin\Debug\net5.0\HRMSproject1.Repository.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.csproj.AssemblyReference.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.AssemblyInfoInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.AssemblyInfo.cs
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.csproj.CoreCompileInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\refint\HRMSproject1.Repository.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\HRMSproject1.Repository.genruntimeconfig.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Repository\obj\Debug\net5.0\ref\HRMSproject1.Repository.dll

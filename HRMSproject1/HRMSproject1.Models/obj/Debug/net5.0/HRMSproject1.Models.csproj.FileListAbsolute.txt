@@ -1,0 +1,12 @@
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\bin\Debug\net5.0\HRMSproject1.Models.deps.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\bin\Debug\net5.0\HRMSproject1.Models.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\bin\Debug\net5.0\HRMSproject1.Models.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.csproj.AssemblyReference.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.AssemblyInfoInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.AssemblyInfo.cs
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.csproj.CoreCompileInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\refint\HRMSproject1.Models.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\HRMSproject1.Models.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Models\obj\Debug\net5.0\ref\HRMSproject1.Models.dll

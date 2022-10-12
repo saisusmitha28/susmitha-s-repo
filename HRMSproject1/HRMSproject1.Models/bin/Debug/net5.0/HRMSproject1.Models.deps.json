@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HRMSproject1.Models/1.0.0": {
+        "runtime": {
+          "HRMSproject1.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRMSproject1.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

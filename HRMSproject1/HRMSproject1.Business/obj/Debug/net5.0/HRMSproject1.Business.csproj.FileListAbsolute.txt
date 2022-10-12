@@ -1,0 +1,17 @@
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Business.deps.json
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Business.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Business.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.csproj.AssemblyReference.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.AssemblyInfoInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.AssemblyInfo.cs
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.csproj.CoreCompileInputs.cache
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\refint\HRMSproject1.Business.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\ref\HRMSproject1.Business.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Models.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Repository.dll
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Models.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\bin\Debug\net5.0\HRMSproject1.Repository.pdb
+E:\susmitha-project\HRMSproject1\HRMSproject1.Business\obj\Debug\net5.0\HRMSproject1.Business.csproj.CopyComplete

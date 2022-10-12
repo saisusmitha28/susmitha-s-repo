@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRMSproject1.Business\HRMSproject1.Business.csproj" />
+    <ProjectReference Include="..\HRMSproject1.Communication\HRMSproject1.Communication.csproj" />
+    <ProjectReference Include="..\HRMSproject1.Models\HRMSproject1.Models.csproj" />
+    <ProjectReference Include="..\HRMSproject1.Utilities\HRMSproject1.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
